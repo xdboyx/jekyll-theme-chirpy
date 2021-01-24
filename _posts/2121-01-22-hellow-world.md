@@ -1,7 +1,7 @@
 ---
 title: Hellow world
 author: Cotes Chung
-date: 2021-01-22 20:55:00 +0800
+date: 2221-01-22 20:55:00 +0800
 categories: [Blogging, Tutorial]
 tags: [getting started]
 pin: true

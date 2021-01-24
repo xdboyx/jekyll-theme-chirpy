@@ -11,4 +11,8 @@ order: 4
 ---
 
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+全端工程師，喜歡喝咖啡、玩遊戲、拍照。
+
+曾經當任過遊戲企劃，在開發軟體中也會注意UX的設計。
+
+這裡記錄我的學習和開發筆記。

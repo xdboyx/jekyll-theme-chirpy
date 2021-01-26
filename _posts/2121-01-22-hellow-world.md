@@ -128,3 +128,7 @@ $ docker run -it --rm \
 ```
 
 Unless you specified the output path, the generated site files will be placed in folder `_site` of the project's root directory. Now you should upload those files to your web server.
+
+
+<!-- google img template -->
+![](https://drive.google.com/uc?id=1Km2n-cKRpLvW-IQF4pyRxrwZTtstMD-B)

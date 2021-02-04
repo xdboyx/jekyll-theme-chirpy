@@ -3,7 +3,7 @@ title: DONT MAKE ME THINK 閱讀筆記
 date: 2021-01-23 20:00:00 +0800
 categories: [UX]
 tags: [UX]
-pin: true
+# pin: true
 ---
 
 # DONT MAKE ME THINK

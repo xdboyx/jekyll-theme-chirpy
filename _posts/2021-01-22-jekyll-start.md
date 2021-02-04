@@ -1,5 +1,5 @@
 ---
-title: 使用 jekyll 在github上做筆記
+title: 使用 jekyll 在 github 上做筆記
 date: 2021-01-22 14:00:00 +0800
 categories: [jekyll]
 tags: [jekyll]
